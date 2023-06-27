@@ -48,7 +48,7 @@
 
     <h2>Consejos para mantener una buena salud mental</h2>
     <ul>
-      <li>Realiza actividades que disfrutes.</li>
+      <p>Realiza actividades que disfrutes.</li>
       <li>Mantén una dieta equilibrada.</li>
       <li>Ejercítate regularmente.</li>
       <li>Duerme lo suficiente.</li>
